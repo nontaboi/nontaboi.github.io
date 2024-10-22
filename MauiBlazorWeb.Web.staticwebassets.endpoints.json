@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "Endpoints": [
+    {
+      "Route": "MauiBlazorWeb.Web.mdc2qoze5a.styles.css",
+      "AssetFile": "MauiBlazorWeb.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1uqQFu6uu/z1mFhzcybMWkklqUbQWbCnlh2A6XQW2Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 03:49:33 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.gppmrk6s6j.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mdc2qoze5a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1uqQFu6uu/z1mFhzcybMWkklqUbQWbCnlh2A6XQW2Ws="
+        },
+        {
+          "Name": "label",
+          "Value": "MauiBlazorWeb.Web.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MauiBlazorWeb.Web.styles.css",
+      "AssetFile": "MauiBlazorWeb.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1uqQFu6uu/z1mFhzcybMWkklqUbQWbCnlh2A6XQW2Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 03:49:33 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.gppmrk6s6j.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1uqQFu6uu/z1mFhzcybMWkklqUbQWbCnlh2A6XQW2Ws="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.bundle.scp.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.gppmrk6s6j.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XKkbzRiXSi3C3dfKh6hIiPPBs0qJ0ZQtZA9pXJ/UJyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 03:49:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XKkbzRiXSi3C3dfKh6hIiPPBs0qJ0ZQtZA9pXJ/UJyo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.gppmrk6s6j.bundle.scp.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.gppmrk6s6j.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XKkbzRiXSi3C3dfKh6hIiPPBs0qJ0ZQtZA9pXJ/UJyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 03:49:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gppmrk6s6j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XKkbzRiXSi3C3dfKh6hIiPPBs0qJ0ZQtZA9pXJ/UJyo="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MauiBlazorWeb.Shared/MauiBlazorWeb.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/app.9pupe6lwof.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rV1RxhIPP9JPWmc1g3FbawMp2AQWm62vwTF/tFs5b2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 13:31:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9pupe6lwof"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rV1RxhIPP9JPWmc1g3FbawMp2AQWm62vwTF/tFs5b2k="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MauiBlazorWeb.Shared/css/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/app.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rV1RxhIPP9JPWmc1g3FbawMp2AQWm62vwTF/tFs5b2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 13:31:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rV1RxhIPP9JPWmc1g3FbawMp2AQWm62vwTF/tFs5b2k="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Oct 2024 13:45:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Oct 2024 13:45:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Oct 2024 13:45:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Oct 2024 13:45:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/nib.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/nib.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69roIBP1gB3SyMfGgYQ17iLyJ8NXXC7+FeZQC9gk5ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 14:16:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-69roIBP1gB3SyMfGgYQ17iLyJ8NXXC7+FeZQC9gk5ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MauiBlazorWeb.Shared/css/nib.xhp08z7f6g.css",
+      "AssetFile": "_content/MauiBlazorWeb.Shared/css/nib.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69roIBP1gB3SyMfGgYQ17iLyJ8NXXC7+FeZQC9gk5ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 14:16:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xhp08z7f6g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-69roIBP1gB3SyMfGgYQ17iLyJ8NXXC7+FeZQC9gk5ZQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MauiBlazorWeb.Shared/css/nib.css"
+        }
+      ]
+    }
+  ]
+}
